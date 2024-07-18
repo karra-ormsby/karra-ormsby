@@ -20,6 +20,8 @@ I am currently looking to change my career into Web Development after over a dec
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+See my skills at work [here](https://karra-ormsby.github.io/React-Portfolio/) on my portfolio page.
+
 
 ## Contact Me
 
