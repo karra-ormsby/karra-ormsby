@@ -1,7 +1,7 @@
 ## Hi there, I'm Karra
 
 
-I am currently looking to change my career into Web Development after over a decade in retail management. I have recently completed a Full Stack Web Development Bootcamp, and am about to embark in the Victorian Government Digital Jobs Program in Frontend Web Development. In my free time I am working on creating my own TCG ecommerce website.
+I am currently looking to change my career into Web Development after over a decade in retail management. I have recently completed a Full Stack Web Development Bootcamp, and am about to embark in the Victorian Government Digital Jobs Program in Frontend Web Development. In my free time I am working on creating my own TCG (trading card game) ecommerce website.
 
 ## Skills and Technology
 
